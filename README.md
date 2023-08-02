@@ -15,3 +15,4 @@
 3. `FixedCapacityArrayStack.java` | 定容泛型栈, 可迭代, 基于数组实现
 4. `ResizingArrayStack.java` | 不定容泛型栈, 可迭代，基于数组实现
 5. `ArrayPackage.java` | 不定容包, 基于不定容数组泛型栈实现
+6. `ResizingCircleArrayQueue` | 不定容队列，基于循环数组实现，支持泛型和迭代
